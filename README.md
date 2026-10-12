@@ -3,9 +3,13 @@
 **Centro:** CEP Granada (Cód. Centro: 18200016)
 
 **Código de la actividad:** [271811GE031](https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/271811GE031/)
+
 **Duración:** 12 horas (10 Presenciales y 2 No presenciales)
+
 **Modalidad:** Curso Semipresencial
+
 **Asesoría:** Alejandro Morcillo Puga
+
 **Tutor:** José Antonio Vacas @javacasm
 
 ## 📌 Portada y Bienvenida

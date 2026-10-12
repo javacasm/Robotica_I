@@ -1,6 +1,7 @@
 # 📗 SESIÓN 3: Robótica Educativa con la Placa Echidna
 
 **Duración:** 2 horas y 30 minutos (Presencial)
+
 **Bloque de Contenidos:** Introducción al hardware educativo avanzado, sensores, actuadores y control físico a través de la placa Echidna Shield.
 ## 1. Introducción y Objetivos de la Sesión
 

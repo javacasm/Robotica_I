@@ -1,6 +1,7 @@
 # 📗 SESIÓN 4: Introducción a la Inteligencia Artificial con LearningML e Integración Final
 
 **Duración:** 2 horas y 30 minutos (Presencial)
+
 **Bloque de Contenidos:** Fundamentos de Inteligencia Artificial y Machine Learning en el aula, entrenamiento de modelos y cierre de la actividad formativa.
 ## 1. Introducción y Objetivos de la Sesión
 
@@ -76,6 +77,10 @@ Una vez entrenado el modelo de inteligencia artificial, el siguiente paso es dar
 
 - Desarrollo de un minijuego donde el personaje del escenario reacciona en función de lo que el alumno le muestra a través de la cámara web.
 
+
+[Aprende Machine Learning con LearningML](https://www.google.com/search?q=https://www.youtube.com/watch%3FeH2wSF6tf-o)
+
+Este vídeo explica de forma clara cómo entrenar modelos de aprendizaje automático basados en texto usando LearningML e integrarlos en proyectos interactivos con Scratch.
 
 ### ⏱️ Bloque 4 (15 min): Orientaciones para la Fase No Presencial y Cierre del Curso
 

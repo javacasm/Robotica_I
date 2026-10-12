@@ -2,6 +2,7 @@
 # 📗 SESIÓN 2: Programación por Bloques con Scratch y Makey Makey
 
 **Duración:** 2 horas y 30 minutos (Presencial)
+
 **Bloque de Contenidos:** Introducción a la programación visual interactiva y conexión de hardware físico a través de Makey Makey.
 ## 1. Introducción y Objetivos de la Sesión
 

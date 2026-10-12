@@ -10,7 +10,9 @@
 
 ## 1. Introducción y Objetivos de la Sesión
 
-El objetivo principal de esta primera sesión es desmitificar la robótica en la práctica educativa, perder el miedo a la tecnología y sentar las bases del **Pensamiento Computacional (PC)**. Trabajaremos desde lo más abstracto e intuitivo (actividades sin pantallas), pasaremos por las plataformas gamificadas en entorno web y concluiremos con los primeros robots físicos de suelo.
+El objetivo principal de esta primera sesión es desmitificar la robótica en la práctica educativa, perder el miedo a la tecnología y sentar las bases del **Pensamiento Computacional (PC)**. 
+
+Trabajaremos desde lo más abstracto e intuitivo (actividades sin pantallas), pasaremos por las plataformas gamificadas en entorno web y concluiremos con los primeros robots físicos de suelo.
 
   
 

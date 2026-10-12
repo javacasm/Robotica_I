@@ -71,7 +71,3 @@
 
     - Puesta en común, dudas y evaluación de la actividad formativa.
 
-
-[Aprende Machine Learning con LearningML](https://www.google.com/search?q=https://www.youtube.com/watch%3FeH2wSF6tf-o)
-
-Este vídeo explica de forma clara cómo entrenar modelos de aprendizaje automático basados en texto usando LearningML e integrarlos en proyectos interactivos con Scratch.
