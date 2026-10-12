@@ -35,3 +35,5 @@
     3. Placa Echidna + Introducción a la IA con LearningML
 
 [Material del curso](https://github.com/javacasm/Robotica_I/tree/main)
+
+![qr-code.png](./images/qr-code.png)
