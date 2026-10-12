@@ -36,7 +36,7 @@
 
 [![](./images/qr-code_peque.png)](./images/qr-code.png)
 
-[Material del curso](https://github.com/javacasm/Robotica_I/tree/main)
+## [Material del curso -  http://shre.ink/Robotica1 ](https://github.com/javacasm/Robotica_I/tree/main)
 
 ## Licencias del curso
 
