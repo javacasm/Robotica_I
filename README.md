@@ -40,10 +40,10 @@
 
 [![](./images/qr-code_peque.png)](./images/qr-code.png)
 
-## [Material del curso -  http://shre.ink/Robotica1 ](https://github.com/javacasm/Robotica_I/tree/main)
+## [Material del curso -  http://shre.ink/Robotica1](https://github.com/javacasm/Robotica_I/tree/main)
 
 ## Licencias del curso
 
 Todo el material del curso se entrega con licencia CC by SA
 
-![](Licencia_CC_peque.png) by @javacasm
+![](./images/Licencia_CC_peque.png) by @javacasm
